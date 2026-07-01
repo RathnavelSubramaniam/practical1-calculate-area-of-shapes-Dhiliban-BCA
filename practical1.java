@@ -67,7 +67,7 @@ class Square extends Rectangle
         this.sideLength = sideLength;
     }
 }
- class practical
+ class practical1
  {
     public static void main(String[] args)
     {
